@@ -1,3 +1,5 @@
+package nanonano;
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -7,19 +9,13 @@
  *
  * @author Titin Kurniati
  */
-public class SwaptVariable {
-    
+public class PrintAreaPerimeterOfRectangel {
     public static void main(String[] args){
+        final double width = 5.6;
+        final double height = 8.5;
+        double area = width * height;
         
-        int x = 5;
-        int b = 6;
-        System.out.println("b sebelum di sswap = " + b);
-        int temp;
-        temp = x;
-        b = temp;
-        System.out.println("b  setelah di swap = " + b);
-        
-        
-        }
+        System.out.printf("Area is %.1f * %.1f = %.2f \n", width, height, area);
+    }
     
 }

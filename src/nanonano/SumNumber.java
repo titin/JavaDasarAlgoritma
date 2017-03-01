@@ -1,3 +1,5 @@
+package nanonano;
+
 
 import java.util.Scanner;
 
