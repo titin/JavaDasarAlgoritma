@@ -50,9 +50,7 @@ public class Sample {
         System.out.println("kurang = " + kurang);
         System.out.println("kali = " + kali);
         System.out.println("bagi = " + bagi);
-        System.out.println("modulus = " + modulus);
-        
-        
+        System.out.println("modulus adalah sisa hasil bagi = " + modulus);     
         
         int number = 10;
         char letter = 'a';

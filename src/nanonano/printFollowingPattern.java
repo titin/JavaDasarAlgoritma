@@ -80,8 +80,8 @@ public class printFollowingPattern {
        }
        
        public static void cetakFace(){
-           System.out.println(" +\"\"\"\"\"+ ");
-           System.out.println("[| o o |]");
+            System.out.println(" +\"\"\"\"\"+ ");
+            System.out.println("[| o o |]");
             System.out.println(" |  ^  | ");
             System.out.println(" | '-' | ");
             System.out.println(" +-----+ ");
